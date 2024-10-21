@@ -1,0 +1,3 @@
+"Airline Ticket Booking" software & pass.txt file will be in a same folder/location.
+Do not use any spaace in name.
+The initial password is "123".
